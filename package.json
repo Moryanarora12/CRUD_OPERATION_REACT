@@ -1,4 +1,29 @@
 {
+<<<<<<< HEAD
+  "name": "crud_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/load-files": "^7.0.0",
+    "@graphql-tools/merge": "^9.0.0",
+    "apollo-server-express": "^3.12.1",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "knex": "^2.5.1",
+    "mysql2": "^3.6.0",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7"
+=======
   "name": "crud_frontend",
   "version": "0.1.0",
   "private": true,
@@ -41,5 +66,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+>>>>>>> 2a26104b6941293a4e0e56f78a24f1ef2a9a1203
   }
 }
